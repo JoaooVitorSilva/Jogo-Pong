@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;  /* centraliza na horizontal */
+  align-items: center;      /* centraliza na vertical */
+  height: 100vh;            /* ocupa toda a altura da janela */
+  margin: 0;                /* remove margens padrão */
+  background-color: #000;   /* cor de fundo opcional */
+}
+
+#game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
