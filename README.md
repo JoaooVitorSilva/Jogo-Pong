@@ -25,3 +25,8 @@ Um clone do clássico jogo **Pong**, desenvolvido em JavaScript com a biblioteca
 
 ---
 
+## 📥 Link do Projeto
+
+https://jogo-pong-flax.vercel.app/
+
+💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
